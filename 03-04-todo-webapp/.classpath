@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/21599814ad9a605b86f3e6381571beccd861a32/servlet-api-2.5-sources.jar" kind="lib" path="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/jsp-api/2.1/1c9e754118cf8d3d85b6b1257fb6fb0f914d08c6/jsp-api-2.1-sources.jar" kind="lib" path="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/jsp-api/2.1/63f943103f250ef1f3a4d5e94d145a0f961f5316/jsp-api-2.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.1.2/4e00791e2808d648c5f519fea019016edfba6fe7/jstl-1.1.2-sources.jar" kind="lib" path="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.1.2/3375e43c620df4f1114959400ff9bb90d12a2feb/jstl-1.1.2.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/taglibs/standard/1.1.2/df8e0d90d896837d12eebaf7abf7bcf07ad0f4e4/standard-1.1.2-sources.jar" kind="lib" path="C:/Users/IBM_ADMIN/.gradle/caches/modules-2/files-2.1/taglibs/standard/1.1.2/a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7/standard-1.1.2.jar" exported="true"/>
+</classpath>
